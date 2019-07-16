@@ -63,17 +63,6 @@ and return the full name of the person have longest full name
 Ex: longestName(persons) => "Soso Al-Amora"
 */
 
-
-/*
-6
-Using the varabile persons
-Create a function called longestName
-that accept an object
-and return the full name of the person have longest full name
-
-Ex: longestName(persons) => "Soso Al-Amora"
-*/
-
 //////////////////////////////////////////////////////////////////
 
 /*
@@ -201,7 +190,7 @@ Create a function called valuesArray
 that accept an object
 and return an array have the values inside this object
 
-Ex: keysArray({firstName:"Moh",age:24,movies:[1,5,"string"]})
+Ex: valuesArray({firstName:"Moh",age:24,movies:[1,5,"string"]})
 => ["Moh", 24, [1,5,"string"]]
 
 */
@@ -221,7 +210,7 @@ Create a function called objectLength
 that accept an object
 and return the number of keys inside this object
 
-Ex: keysArray({a:1,b:2,c:3,d:4})
+Ex: objectLength({a:1,b:2,c:3,d:4})
 => 4
 */
 
@@ -243,5 +232,5 @@ Create a function called longestKey
 that accept an object
 and return the value inside the longest key
 
-Ex: evenValue({car:1, school:2, monster:3, alexMercer:4})=> 4
+Ex: longestKey({car:1, school:2, monster:3, alexMercer:4})=> 4
 */
