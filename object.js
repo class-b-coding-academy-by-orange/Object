@@ -68,7 +68,7 @@ Ex: longestName(persons) => "Soso Al-Amora"
 6
 Using the varabile persons
 Create a function called longestName
-that accept an object
+that accept an array
 and return the full name of the person have longest full name
 
 Ex: longestName(persons) => "Soso Al-Amora"
